@@ -1,0 +1,5 @@
+D:\TimesheetApp\TimesheetApp\DataFramework\bin\Debug\DataFramework.dll
+D:\TimesheetApp\TimesheetApp\DataFramework\bin\Debug\DataFramework.pdb
+D:\TimesheetApp\TimesheetApp\DataFramework\obj\Debug\DataFramework.csprojAssemblyReference.cache
+D:\TimesheetApp\TimesheetApp\DataFramework\obj\Debug\DataFramework.dll
+D:\TimesheetApp\TimesheetApp\DataFramework\obj\Debug\DataFramework.pdb
